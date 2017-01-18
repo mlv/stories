@@ -44,7 +44,7 @@ Eventually, the principal showed up. He talked to the lady. "Grace? What's the p
 
 "You mean all this gibberish after 'Robert'? What does it all mean?"
 
-It's called SQL injection. That name is why we don't have a student database.
+It's called "SQL injection". That name is why we don't have a student database.
 
 The principal looked at Bobby, still standing there quietly sobbing. "Do you know anything about this?"
 
